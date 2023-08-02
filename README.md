@@ -11,8 +11,6 @@
 - [Future Applications](#future-applications)
 - [Project Progress](#project-progress)
 - [Documentation](#documentation)
-- [Getting Started](#getting-started)
-- [Contributing]()
 - [License](#license)
 
 ## Description
@@ -47,10 +45,6 @@ Here, we will track the progress of the project and update milestones as we move
 ## Documentation
 
 For detailed documentation and technical information, please refer to the [Documentation](docs/) folder.
-
-## Getting Started
-
-To get started with the project and contribute, please follow the guidelines in the [Contributing](CONTRIBUTING.md) file.
 
 ## License
 
