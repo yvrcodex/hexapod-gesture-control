@@ -48,4 +48,4 @@ For detailed documentation and technical information, please refer to the [Docum
 
 ## License
 
-This project is licensed under the [LICENSE](LICENSE) - you can view the full license terms there.
+This project is licensed under the [LICENSE](LICENSE) - you can view the full license terms there
