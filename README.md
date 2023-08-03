@@ -4,6 +4,8 @@
 
 ---
 
+## [QUADRO DE AVISOS](../hexapod-gesture-control/docs/instructions/guide.md)
+
 ## Table of Contents
 
 - [Description](#description)
