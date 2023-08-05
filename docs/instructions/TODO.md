@@ -55,4 +55,4 @@ This document contains the list of tasks and their status for the Hexapod Projec
 
 <!-- More tasks here -->
 
-<!-- Use the following symbols: "[x]" for completed, "[>]" for in progress, and "[ ]" for not started. -->
+<!-- Use the following symbols: "[x]" for completed, "[>]" fo'r' in progress, and "[ ]" for not started. -->
