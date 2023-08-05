@@ -8,8 +8,9 @@
 
 - [Project ToDo List](./docs/instructions/TODO.md) - This document contains the list of tasks and their status for the Hexapod Project.
 
-- [Structure Guides](./docs/instructions/TODO.md)
+- [Structure Guides](./docs/instructions/TODO.md) - Basic info about scope of structures
 
+- [References](./docs/instructions/REFERENCES.md) - References support 
 ---
 
 ## **Table of Contents**
