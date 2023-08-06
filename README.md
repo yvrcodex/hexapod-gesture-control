@@ -8,7 +8,7 @@
 
 - [Project ToDo List](./docs/instructions/TODO.md) - This document contains the list of tasks and their status for the Hexapod Project.
 
-- [Structure Guides](./docs/instructions/TODO.md) - Basic info about scope of structures
+- [Structure Guides](./docs/instructions/GUIDES.md) - Basic info about scope of structures
 
 - [References](./docs/instructions/REFERENCES.md) - References support 
 ---
@@ -18,7 +18,6 @@
 - [Description](#description)
 - [Key Features](#key-features)
 - [Future Applications](#future-applications)
-- [Project Progress](#project-progress)
 - [Documentation](#documentation)
 - [Contribution Guide](./docs/instructions/CONTRIBUTING.md)
 - [License](#license)
@@ -48,17 +47,13 @@ In the long term, this project envisions a future where gesture-controlled robot
 
 We believe that gesture-controlled hexapods have the potential to revolutionize robotics and contribute positively to society. As we progress through this project, we hope to create a platform that inspires future innovations in the field of robotics and automation.
 
-## **Project Progress**
-
-Here, we will track the progress of the project and update milestones as we move forward. Stay tuned for exciting updates!
-
 ## **Documentation**
 
 For detailed documentation and technical information, please refer to the [Documentation](./docs) folder.
 
 ## **Contribution Guide**
 
-If you wish to contribute to the project, follow the guidelines described in the [Contribution Guide](./docs/instructions/CONTRIBUTING.md).
+If you wish to contribute to the project, follow the guidelines described in the [Contribution Guide](./docs/instructions/CONTRIBUING.md).
 
 ## **License**
 
