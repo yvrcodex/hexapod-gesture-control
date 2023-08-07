@@ -58,4 +58,3 @@ If you wish to contribute to the project, follow the guidelines described in the
 ## **License**
 
 This project is licensed under the [MIT License](./LICENSE) - you can view the full license terms there.
-
