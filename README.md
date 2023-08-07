@@ -12,7 +12,7 @@
 
 - [References](./docs/instructions/REFERENCES.md) - References support
 
-- [Workflow](./diagrams/WORKFLOW.png) - Detailed workflow of the project.
+- [Workflow](./diagrams/WORKFLOW.md) - Detailed workflow of the project.
 
 ```mermaid
 
