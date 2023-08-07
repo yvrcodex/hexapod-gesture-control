@@ -1,12 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <title>Diagrama Mermaid com Fundo Branco</title>
-  <script src="https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.esm.min.js"></script>
-</head>
-<body>
-  <div style="background-color: white; padding: 20px;">
-    <div class="mermaid">
 
 ```mermaid
 
@@ -156,12 +147,3 @@ style relatorio fill:#c0c0c0,color:#000000,stroke-width: 2px,stroke:#000000;
 
 
 ```
-
-   </div>
-  </div>
-
-  <script>
-    mermaid.initialize({ startOnLoad: true });
-  </script>
-</body>
-</html>
