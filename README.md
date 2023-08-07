@@ -10,7 +10,70 @@
 
 - [Structure Guides](./docs/instructions/GUIDES.md) - Basic info about scope of structures
 
-- [References](./docs/instructions/REFERENCES.md) - References support 
+- [References](./docs/instructions/REFERENCES.md) - References support
+
+- [Workflow](./diagrams/WORKFLOW.png) - Detailed workflow of the project.
+
+```mermaid
+
+flowchart LR
+
+                    %% Estruturar o Projeto %%
+
+voids(["start"])
+style voids fill:#750075,color:#750075,stroke-width: 3px,stroke:#000000;
+
+voidi["-------------"]
+style voidi fill:#000080,color:#000080,stroke-width: 3px,stroke:#000000;
+
+void1["-  -  ------   --"]
+style void1 fill:#b05800,color:#b05800,stroke-width: 3px,stroke:#000000;
+
+void2["----     ---"]
+style void2 fill:#007900,color:#007900,stroke-width: 3px,stroke:#000000;
+
+
+
+void4(["0"])
+style void4 fill:#ecec00,color:#ecec00,stroke-width: 3px,stroke:#000000;
+
+void5{"1"}
+style void5 fill:#00ffff,color:#00ffff,stroke-width: 3px,stroke:#000000;
+
+void6[("2")]
+style void6 fill:#000080,color:#000080,stroke-width: 3px,stroke:#000000;
+
+void7>"3"]
+style void7 fill:#ffff00,color:#ffff00,stroke-width: 3px,stroke:#000000;
+
+void8((("4")))
+style void8 fill:#ff0000,color:#ff0000,stroke-width: 3px,stroke:#000000;
+
+void9["-------------"]
+style void9 fill:#000080,color:#000080,stroke-width: 3px,stroke:#000000;
+
+voidf(["start"])
+style voidf fill:#750075,color:#750075,stroke-width: 3px,stroke:#000000;
+
+
+voids --> voidi
+voidi --> void1
+voidi --> void2
+
+void1 --> void4 --> void5 --- void7
+void5 --- void8
+void5 --- 
+
+void2 --> void6 --> void7
+
+void7 --> void9 --> voidf
+
+void8 -.-> void1
+
+
+                    %% Repositorio
+
+```
 ---
 
 ## **Table of Contents**
