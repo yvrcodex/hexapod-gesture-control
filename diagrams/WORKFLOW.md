@@ -1,7 +1,6 @@
-
 ```mermaid
 
-
+%%{init: {'theme': 'neutral'}}%%
 
 flowchart LR
 
